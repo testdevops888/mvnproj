@@ -8,11 +8,11 @@
     <body>
         <h1>Demo Project from Devops</h1>
         <h1>Nice day DEVOPS8-9newbatch.....</h1>
-        <h1>Nice day DEVOPS8-9batch.....</h1>
+        <h1>Nice day DEVOPS8-9batcholdbatch.....</h1>
         <h1>Nice day DEVOPS8-9batch.....</h1>
 
 
-<table width="70%" bgcolor="red" align="center" border="2">
+<table width="70%" bgcolor="green" align="center" border="2">
 
 <tr>
 <td colspan=2><center><font size=4><b>HTML Login Page</b></font></center></td>
