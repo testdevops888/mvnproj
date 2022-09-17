@@ -12,7 +12,7 @@
         <h1>Nice day DEVOPS8-9batch.....</h1>
 
 
-<table width="50%" bgcolor="green" align="center" border="2">
+<table width="70%" bgcolor="red" align="center" border="2">
 
 <tr>
 <td colspan=2><center><font size=4><b>HTML Login Page</b></font></center></td>
@@ -20,12 +20,12 @@
 
 <tr>
 <td>Username:</td>
-<td><input type="text" size=25 name="userid"></td>
+<td><input type="text" size=40 name="userid"></td>
 </tr>
 
 <tr>
 <td>Password:</td>
-<td><input type="Password" size=25 name="pwd"></td>
+<td><input type="Password" size=40 name="pwd"></td>
 </tr>
 
 <tr>
