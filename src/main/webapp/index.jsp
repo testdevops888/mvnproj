@@ -12,7 +12,7 @@
         <h1>Nice day DEVOPS8-9batch.....</h1>
 
 
-<table width="50%" bgcolor="pink" align="center" border="2">
+<table width="50%" bgcolor="green" align="center" border="2">
 
 <tr>
 <td colspan=2><center><font size=4><b>HTML Login Page</b></font></center></td>
