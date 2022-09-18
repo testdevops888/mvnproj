@@ -1,6 +1,6 @@
 pipeline {
     agent any
-	tools {maven "mvn-new"}
+	tools {maven "maven-new"}
 
     stages {
         stage('github-latest') {
